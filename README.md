@@ -1,2 +1,2 @@
-# sql-data-warehouse-project
+# Data Warehouse and Analytics Projects
 Building a modern data warehouse project.
